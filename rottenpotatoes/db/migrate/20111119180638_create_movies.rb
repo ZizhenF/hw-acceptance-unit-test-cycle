@@ -14,4 +14,4 @@ class CreateMovies < ActiveRecord::Migration
   def down
     drop_table :movies
   end
-end
+
